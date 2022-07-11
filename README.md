@@ -5,6 +5,7 @@ weather information. Built using React, the project uses Google Maps Javascript 
 data about the places in the vicinity of your location or any other place in the world. You can navigate and filter through the various available options
 available using the creative and minimal interface.
 
+![p2](https://user-images.githubusercontent.com/83298237/178258551-66ba6649-b730-4222-91dd-2c8c5f5fdb2e.jpg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
