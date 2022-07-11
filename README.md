@@ -1,7 +1,7 @@
 # Travelogue
 
 An easy and convenient to use travel advisor web app which provides information about the nearest restaurants, hotels, and attractions with the current
-weather information. Built using React, the project uses Google Maps Javascript API and the Travel Advisor API, and Open Weather Map API to fetch relevant
+weather information. Built using React, the project uses Google Maps Javascript API, Travel Advisor API, and Open Weather Map API to fetch relevant
 data about the places in the vicinity of your location or any other place in the world. You can navigate and filter through the various available options
 available using the creative and minimal interface.
 
